@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1693778597 source:c:\users\gabriel\onedrive\Área de trabalho\ufrgs\cadeiras\alg e prog\dev\zill\main.c
+	"raylib.h"
+	<math.h>
+	<stdio.h>
+	<string.h>
+
